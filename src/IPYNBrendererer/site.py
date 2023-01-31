@@ -1,8 +1,8 @@
 from IPython import display
 from ensure import ensure_annotations
 import urllib.request
-from IPYNBrender.custom_exception import InvalidURLException
-from IPYNBrender.logger import logger
+from IPYNBrendererer.custom_exception import InvalidURLException
+from IPYNBrendererer.logger import logger
 
 
 @ensure_annotations
