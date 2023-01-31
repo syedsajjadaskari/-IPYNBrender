@@ -1,6 +1,6 @@
 import pytest
-from IPYNBrender import render_site
-from IPYNBrender.custom_exception import InvalidURLException
+from IPYNBrendererer import render_site
+from IPYNBrendererer.custom_exception import InvalidURLException
 
 class TestRenderSite:
     URL_test_success_data = [

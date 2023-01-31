@@ -1,6 +1,6 @@
 
 import pytest
-from IPYNBrender import is_valid
+from IPYNBrendererer import is_valid
 
 URL_test_data = [
     ("http://pytorch.org", True),
