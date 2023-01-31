@@ -3,9 +3,9 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-__version__ = "0.0.02"
+__version__ = "0.0.2"
 
-REPO_NAME = "IPYNBrender "
+REPO_NAME = "IPYNBrender"
 AUTHOR_USER_NAME = "syedsajjadaskari"
 SRC_REPO = "IPYNBrender"
 AUTHOR_EMAIL = "syedsajjad62@gmail.com"
